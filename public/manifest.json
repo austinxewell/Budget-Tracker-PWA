@@ -43,7 +43,7 @@
     ],
     "name": "Budget App",
     "short_name": "Budgetize",
-    "description": "An app that allows you to view your budget transaction.",
+    "description": "An app that allows you to view your budget transactions.",
     "orientation": "portrait",
     "theme_color": "#ffffff",
     "background_color": "#01579b",
