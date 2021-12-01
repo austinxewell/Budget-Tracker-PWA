@@ -14,6 +14,8 @@
   You can clone the GitHub repository from the link provided. https://github.com/austinxewell/Budget-Tracker-PWA
   # Usage
   Once you have reached the app location in your desired method you will input the name of your transaction in the "Name of transaction" text box. You will then input your transaction amount in the "Transaction amount" text box. Once your transaction information has been inputted, you will decided wether your transaction is a "Add Funds" or a "Subtract Funds". The application will then chart your data and display your total at the top of the screen.
+
+  ![Budget_Tracker](https://user-images.githubusercontent.com/86080954/144169790-c055106d-b4fb-48de-b1ad-a8069d874993.JPG)
   # Contributing
   There are no other contributers for this project.
   # Tests
