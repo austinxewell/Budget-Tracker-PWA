@@ -1,7 +1,8 @@
 # Budget-Tracker-PWA
   
   # Description
-  This application is designed to help you manage your budget. This application is a PWA and will work offline and update when connection is established. You are able to name your transaction and track wether it add funds or subtracts the funds in a helpful chart to track habbits.
+  This application is designed to help you manage your budget. This application is a PWA and will work offline and update when connection is established. You are able to name your transaction and track wether it add funds or subtracts the funds in a helpful chart to track habbits. This applications uses technologies such as web manifests, service workers, is installable, and reactive on input.
+
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
